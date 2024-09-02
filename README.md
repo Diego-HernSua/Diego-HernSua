@@ -1,6 +1,6 @@
 # 🌟 Welcome to Diego Hernández Suárez's GitHub! 👾👋
 
-I am a passionate **Data Science and Engineering** student at **Universidad Carlos III de Madrid**. This GitHub profile showcases my projects and accomplishments, reflecting my expertise and enthusiasm in programming, AI, Machine Learning, data modeling, and cybersecurity.
+I am a **Data Science and Engineering** student at **Universidad Carlos III de Madrid**. This GitHub profile showcases my projects and accomplishments, reflecting my expertise and enthusiasm in programming, AI, Machine Learning, data modeling, and cybersecurity.
 
 ---
 
