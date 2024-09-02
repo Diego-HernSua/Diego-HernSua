@@ -4,6 +4,12 @@ I am a passionate Data Science and Engineering student at **Universidad Carlos I
 
 ---
 
+## 📫 Get in Touch
+- **✉️ Email**: [diego0406.hs@gmail.com](mailto:diego0406.hs@gmail.com)
+- **🔗 LinkedIn**: [linkedin.com/in/diego-hernandez-suarez-data](https://linkedin.com/in/diego-hernandez-suarez-data)
+
+---
+
 ## 📚 Education
 ### 🎓 Final Year Student in **Data Science and Engineering**  
 _Universidad Carlos III de Madrid_
@@ -52,12 +58,6 @@ _Colegio Arenas Internacional_
 ## 🚀 Career Interests
 **🔍 Seeking Opportunities**: Actively looking for an internship in a forward-thinking company where I can apply my knowledge and skills in a practical setting.
 
-
----
-
-## 📫 Get in Touch
-- **✉️ Email**: [diego0406.hs@gmail.com](mailto:diego0406.hs@gmail.com)
-- **🔗 LinkedIn**: [linkedin.com/in/diego-hernandez-suarez-data](https://linkedin.com/in/diego-hernandez-suarez-data)
 
 ---
 
