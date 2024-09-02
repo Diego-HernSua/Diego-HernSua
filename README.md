@@ -64,3 +64,11 @@ _Colegio Arenas Internacional_
 _Thank you for visiting my GitHub profile!_
 
 
+### 📊 GitHub Stats
+
+![Diego's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&hide_title=true&hide=prs&count_private=true&include_all_commits=true&theme=default&border_radius=5)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=default&border_radius=5)
+
+
+
