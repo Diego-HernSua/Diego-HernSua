@@ -53,9 +53,9 @@ _Colegio Arenas Internacional_
 ### 🚀 **[Project Title 1](#)**
 - TERMINAR
 
---
+---
 
-## 🛠️ Technologies & Tools
+## ⚙️ Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="Python" />
