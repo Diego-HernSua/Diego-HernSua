@@ -1,16 +1,29 @@
-## Hi there 👋
+## Hi there 👋 I'm Diego Hernández Suárez
 
-<!--
-**Diego-HernSua/Diego-HernSua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm passionate about data science, cybersecurity, and artificial intelligence. Here, you'll find a variety of projects that showcase my skills and interests in these fields.
 
-Here are some ideas to get you started:
+### 🔭 Current Projects
+- **Data Science**: Developing predictive models using machine learning to analyze financial data.
+- **Cybersecurity**: Working on a threat detection tool that leverages AI to identify potential security breaches in real-time.
+- **Artificial Intelligence**: Exploring neural networks for natural language processing applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Learning & Development
+- **Currently Learning**: Advanced Deep Learning techniques and their application in image and speech recognition.
+- **Certifications**: AWS Certified Machine Learning – Specialty, Google Professional Data Engineer.
+
+### 👯 Collaboration & Open Source
+- I'm looking to collaborate on open-source projects in the fields of data science and cybersecurity.
+- Interested in contributing to AI-driven cybersecurity solutions.
+
+### 🤔 Looking for Help
+- Always eager to learn more about cloud security and its integration with AI models.
+
+### 💬 Ask Me About
+- Data Engineering: How to optimize data pipelines and manage large datasets.
+- Machine Learning: Best practices for deploying ML models in production.
+- Cybersecurity: Effective strategies for mitigating security risks in data-intensive environments.
+
+### 📫 How to Reach Me
+- **Email**: diego0406.hs@gmail.com
+- **LinkedIn**: [linkedin.com/in/diego-hernandez-suarez-data](https://linkedin.com/in/diego-hernandez-suarez-data)
+
