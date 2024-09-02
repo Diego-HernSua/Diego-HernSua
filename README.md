@@ -40,8 +40,7 @@ _Colegio Arenas Internacional_
 **Bachelor's Degree** in Data Science and Engineering
 
 ### 🏅 Certifications
-- **Certified in Cybersecurity (ISC2)**
-- **Currently Completing**: Power BI Course
+- **Currently Completing**: Certified in Cybersecurity (ISC2) and Power BI Course
 
 ---
 
