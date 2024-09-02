@@ -1,6 +1,6 @@
-## Hi! 👾👋 I am Diego Hernández Suárez. I hope you have a good time watching my GitHub Profile!
+## Hi! 👾👋 I am Diego Hernández Suárez. I hope you have a good time watching my GitHub!
 
-Welcome to my GitHub. I am currently pursuing a bachelor in Data Science and Engineering, so I have knowledge in programming languages, AI, Machine Learning, data modelling or cybersecurity. Im publishing different repositories in order to show to the world my projects and what I had done. Here, you'll find a variety of projects that showcase my skills and interests in these fields.
+Welcome to my GitHub Profile. I am currently pursuing a bachelor in Data Science and Engineering, so I have knowledge in programming languages, AI, Machine Learning, data modelling or cybersecurity. Im publishing different repositories in order to show to the world my projects and what I had done. Here, you'll find a variety of projects that showcase my skills and interests in these fields.
 
 ### 🔭 Current Projects
 - **Data Science**: Developing predictive models using machine learning to analyze financial data.
