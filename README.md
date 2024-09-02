@@ -49,12 +49,6 @@ _Colegio Arenas Internacional_
 
 ---
 
-## 📈 Highlighted Projects
-### 🚀 **[Project Title 1](#)**
-- TERMINAR
-
----
-
 ## ⚙️ Tools
 
 <p align="center">
