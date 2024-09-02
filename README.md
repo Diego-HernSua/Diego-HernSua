@@ -59,8 +59,8 @@ _Colegio Arenas Internacional_
 _Thank you for visiting my GitHub profile! Feel free to explore my projects and connect with me._
 
 ---
+---
 
-_**Favorite Quote:**_  
 _"You will face many defeats in life, but never let yourself be defeated."_ – **Maya Angelou**
 
 ---
