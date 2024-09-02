@@ -52,10 +52,7 @@ _Colegio Arenas Internacional_
 
 ## 📈 Highlighted Projects
 ### 🚀 **[Project Title 1](#)**
-- Brief description of the project, its impact, and technologies used.
-
-### 🚀 **[Project Title 2](#)**
-- Brief description of the project, its impact, and technologies used.
+- TERMINAR
 
 ---
 
@@ -64,6 +61,7 @@ _Thank you for visiting my GitHub profile! Feel free to explore my projects and 
 ---
 
 _**Favorite Quote:**_  
-_"The only way to do great work is to love what you do."_ – Steve Jobs
+_"You will face many defeats in life, but never let yourself be defeated."_ – **Maya Angelou**
 
+---
 ---
