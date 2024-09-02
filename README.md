@@ -5,12 +5,11 @@ I am a passionate Data Science and Engineering student at **Universidad Carlos I
 ---
 
 ## 📚 Education
-### 🎓 Final Year Student
-**Data Science and Engineering**  
+### 🎓 Final Year Student in **Data Science and Engineering**  
 _Universidad Carlos III de Madrid_
 
-### 🌍 International Baccalaureate (IB)
-**Sciences**
+### 🌍 International Baccalaureate (IB) in **Sciences**
+_Colegio Arenas Internacional_
 
 ---
 
@@ -46,13 +45,13 @@ _Universidad Carlos III de Madrid_
 **Bachelor's Degree** in Data Science and Engineering
 
 ### 🏅 Certifications
-- **Certified in Cybersecurity**
-- **Currently Completing**: Power BI Course
+- **Currently Completing**: Certified in Cybersecurity (ISC2) and Power BI Course
 
 ---
 
 ## 🚀 Career Interests
 **🔍 Seeking Opportunities**: Actively looking for an internship in a forward-thinking company where I can apply my knowledge and skills in a practical setting.
+
 
 ---
 
@@ -62,6 +61,6 @@ _Universidad Carlos III de Madrid_
 
 ---
 
-Thank you for visiting my GitHub profile!
+_Thank you for visiting my GitHub profile!_
 
 
