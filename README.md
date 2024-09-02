@@ -26,7 +26,7 @@ _Colegio Arenas Internacional_
 | 📊 **Data Science**  | Analysis, Visualization, Predictive Modeling               |
 | 🔐 **Cybersecurity** | Risk Management, Threat Detection, Security Protocols       |
 | 🤖 **AI**            | Neural Networks, NLP, Deep Learning                        |
-| 🛠️ **Data Engineering** | Data Pipelines, ETL Processes, Database Management       |
+| 🛠️ **Data Engineering** | Data Pipelines, ETL Processes      |
 | 🧠 **Machine Learning** | Supervised and Unsupervised Learning, Model Evaluation   |
 | 📈 **Statistics**    | Statistical Analysis, Hypothesis Testing, Probability Theory|
 | 🔢 **Computational Mathematics** | Numerical Methods, Algorithm Development, Optimization Techniques |
