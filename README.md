@@ -58,6 +58,7 @@ _Colegio Arenas Internacional_
 | [**Modeling for Medical Insurance Costs: Bayesian Analysis**](https://github.com/Diego-HernSua/Modeling_for_Medical_Insurance_Costs_Bayesian) | Application of Bayesian analysis to model medical insurance costs using various statistical techniques. |
 | [**Linear and Discrete Models for Energy Production Optimization**](https://github.com/Diego-HernSua/Linear_Discrete_Models_Energy_Production_Optimization) | Optimization of energy production using linear and discrete models to improve efficiency and resource allocation. |
 | [**Network Optimization and Non-linear Models**](https://github.com/Diego-HernSua/Network_Optimization_and_Non-linear-Models)           | Formulation and solution of network optimization problems, including vehicle routing and non-linear optimization for wood transportation. |
+| [**Advanced NLP and ML Analysis of Medication Reviews for Predictive Insights**](https://github.com/Diego-HernSua/Drugs_Reviews_NLP_ML) | Application of advanced NLP and ML techniques to analyze medication reviews and predict drug effectiveness and side effects. |
 
 ---
 
