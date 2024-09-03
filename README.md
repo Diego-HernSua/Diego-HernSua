@@ -49,6 +49,19 @@ _Colegio Arenas Internacional_
 
 ---
 
+
+## 📂 Projects
+
+| **Project Title**                                                                                                                            | **Description**                                                                                         |
+|----------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|
+| [**Dashboard Advanced Spreadsheets about Movies**](#link-to-repository-dashboard-advanced-spreadsheets-about-movies)                         | Final project for the "Advanced Spreadsheets" course, creating an interactive dashboard with a movie dataset. |
+| [**Page Rank (Massive Computing)**](#link-to-repository-page-rank-massive-computing)                                                         | Implementation of the PageRank algorithm using Apache Spark on Databricks to rank web pages based on link structures. |
+| [**Supervised Tools in Statistical Learning: FIFA23 Analysis**](#link-to-repository-supervised-tools-in-statistical-learning-fifa23-analysis) | Application of supervised learning techniques to a dataset of FIFA 23 player statistics for insights and analysis. |
+| [**Unsupervised Learning: FIFA 23 Player Statistics Analysis**](#link-to-repository-unsupervised-learning-fifa-23-player-statistics-analysis) | Analysis of FIFA 23 player statistics using unsupervised learning techniques to uncover hidden patterns. |
+| [**Mobile App FarmSpot**](#link-to-repository-mobile-app-farmspot)                                                                           | A mobile application that connects farmers directly with consumers, eliminating intermediaries and promoting the purchase of fresh products. |
+
+---
+
 ## ⚙️ Tools
 
 <p align="center">
