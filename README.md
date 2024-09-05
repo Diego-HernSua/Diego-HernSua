@@ -77,6 +77,12 @@ _Colegio Arenas Internacional_
   <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge" alt="TensorFlow" />
 </p>
 
+
+## 📊 GitHub Stats
+
+![Diego's GitHub stats](https://github-readme-stats.vercel.app/api?username=Diego-HernSua&show_icons=true&count_private=true&hide=prs&theme=radical)
+
+
 ---
 ---
 
