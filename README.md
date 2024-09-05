@@ -77,8 +77,6 @@ _Colegio Arenas Internacional_
   <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge" alt="TensorFlow" />
 </p>
 
-## 🎥 Dynamic Visualization
-![Demo](https://media.giphy.com/media/3o6ozsPFLzJ89ELX56/giphy.gif)
 
 ---
 ---
