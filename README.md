@@ -53,13 +53,13 @@ _Colegio Arenas Internacional_
 
 | **Project Title**                                                                                                                            | **Description**                                                                                         |
 |----------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|
-| [**PageRank**](https://github.com/Diego-HernSua/Page_Rank_Wikipedia)                                                                      | Implementation of the PageRank algorithm using Apache Spark on Databricks to rank web pages based on link structures. |
-| [**Unsupervised Learning: FIFA 23 Player Statistics Analysis**](https://github.com/Diego-HernSua/Unsupervised_StatisticalLearning)       | Analysis of FIFA 23 player statistics using unsupervised learning techniques to uncover hidden patterns. |
-| [**Modeling for Medical Insurance Costs: Bayesian Analysis**](https://github.com/Diego-HernSua/Modeling_for_Medical_Insurance_Costs_Bayesian) | Application of Bayesian analysis to model medical insurance costs using various statistical techniques. |
-| [**Linear and Discrete Models for Energy Production Optimization**](https://github.com/Diego-HernSua/Linear_Discrete_Models_Energy_Production_Optimization) | Optimization of energy production using linear and discrete models to improve efficiency and resource allocation. |
-| [**Network Optimization and Non-linear Models**](https://github.com/Diego-HernSua/Network_Optimization_and_Non-linear-Models)           | Formulation and solution of network optimization problems, including vehicle routing and non-linear optimization for wood transportation. |
 | [**Advanced NLP and ML Analysis of Medication Reviews for Predictive Insights**](https://github.com/Diego-HernSua/Drugs_Reviews_NLP_ML) | Application of advanced NLP and ML techniques to analyze medication reviews and predict drug effectiveness and side effects. |
+| [**Linear and Discrete Models for Energy Production Optimization**](https://github.com/Diego-HernSua/Linear_Discrete_Models_Energy_Production_Optimization) | Optimization of energy production using linear and discrete models to improve efficiency and resource allocation. |
+| [**PageRank**](https://github.com/Diego-HernSua/Page_Rank_Wikipedia)                                                                      | Implementation of the PageRank algorithm using Apache Spark on Databricks to rank web pages based on link structures. |
+| [**Network Optimization and Non-linear Models**](https://github.com/Diego-HernSua/Network_Optimization_and_Non-linear-Models)           | Formulation and solution of network optimization problems, including vehicle routing and non-linear optimization for wood transportation. |
+| [**Modeling for Medical Insurance Costs: Bayesian Analysis**](https://github.com/Diego-HernSua/Modeling_for_Medical_Insurance_Costs_Bayesian) | Application of Bayesian analysis to model medical insurance costs using various statistical techniques. |
 | [**CookingTok: Web Application for Recipe Management**](https://github.com/Diego-HernSua/Cooking_Web_App/tree/main) | A web application for managing and discovering recipes with features for user profiles, interactive UI, comments, ratings, and advanced search. |
+
 
 ---
 
